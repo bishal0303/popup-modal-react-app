@@ -1,0 +1,42 @@
+# Popup Modal React App
+
+A Popup Modal React App built with React, Vite, and Tailwind CSS.
+
+## Features
+
+- Responsive grid layout that adapts to different screen sizes
+- Reusable button components
+
+## Tech Stack
+
+- React
+- Vite
+- Tailwind CSS
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (LTS recommended)
+- npm
+
+### Install and run
+
+```bash
+git clone <your-repository-url>
+cd popup-modal-react-app
+npm install
+npm run dev
+```
+
+Open the local URL printed by Vite in your browser.
+
+## Available Scripts
+
+| Command | Description |
+| --- | --- |
+| `npm run dev` | Start the development server |
+| `npm run build` | Create a production build in `dist/` |
+| `npm run preview` | Preview the production build locally |
+| `npm run lint` | Run ESLint |
+
